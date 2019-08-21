@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [21/Aug/2019:22:31:07 +0800] "GET /travel HTTP/1.1" 302 - http-bio-12121-exec-1 0
+0:0:0:0:0:0:0:1 - - [21/Aug/2019:22:31:07 +0800] "GET /travel/ HTTP/1.1" 304 - http-bio-12121-exec-3 20
+0:0:0:0:0:0:0:1 - - [21/Aug/2019:22:31:09 +0800] "GET /travel/user/findUser HTTP/1.1" 200 4 http-bio-12121-exec-2 645
+0:0:0:0:0:0:0:1 - - [21/Aug/2019:22:31:09 +0800] "GET /travel/user/findUser HTTP/1.1" 200 4 http-bio-12121-exec-6 1
+0:0:0:0:0:0:0:1 - - [21/Aug/2019:22:31:09 +0800] "GET /travel/route/showIndex HTTP/1.1" 200 - http-bio-12121-exec-4 1324
+0:0:0:0:0:0:0:1 - - [21/Aug/2019:22:31:13 +0800] "GET /travel/category/find HTTP/1.1" 200 - http-bio-12121-exec-5 4431
